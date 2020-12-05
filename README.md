@@ -10,13 +10,15 @@ You may use any language and submit your code via email or Gist. Don't hesitate 
 
 The output should be:
 
-`$ ./preferred-languagues mefyl
+```
+$ ./preferred-languagues mefyl
 Language repartition for mefyl
 * 24754990: C++
 * 3044348: Python
 * 2409137: OCaml
 * 2145359: C
-...`
+...
+```
 
 # How to use
 
