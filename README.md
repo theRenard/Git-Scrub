@@ -11,7 +11,7 @@ You may use any language and submit your code via email or Gist. Don't hesitate 
 The output should be:
 
 ```
-$ ./preferred-languagues mefyl
+$ ./preferred-languages mefyl
 Language repartition for mefyl
 * 24754990: C++
 * 3044348: Python
@@ -22,7 +22,7 @@ Language repartition for mefyl
 
 # How to use
 
-You can invoke the script with node with this command: `$ node preferred-languagues.js {git-username}` or `$ ./preferred-languagues {git-username}`.
+You can invoke the script with node with this command: `$ node preferred-languages.js {git-username}` or `$ ./preferred-languages {git-username}`.
 
 ⚠️ The binary is compiled for `macos-x64` you might need to recompile for your specific OS. If so then do a `$ npm run build`. 
 

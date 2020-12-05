@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node index.ts",
-    "build": "tsc && pkg preferred-language.js --output preferred-languagues",
+    "build": "tsc && pkg preferred-language.js --output preferred-languages",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
